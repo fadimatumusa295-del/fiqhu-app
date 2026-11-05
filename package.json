@@ -1,0 +1,11 @@
+{
+  "name": "fiqhu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fiqhu - Maliki fiqh (Akhdari) in Arabic and Hausa, offline",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
